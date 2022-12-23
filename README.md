@@ -1,3 +1,9 @@
+# Visit the website: 
+https://nikolas-milanovic.github.io/AddictiveByDesign/
+
+<hr>
+<hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
